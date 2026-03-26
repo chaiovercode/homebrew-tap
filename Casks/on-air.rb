@@ -17,6 +17,20 @@ cask "on-air" do
                    sudo: false
   end
 
+  caveats <<~EOS
+
+    (( o ))  OnAir is installed.
+
+    Open it from Applications or Spotlight.
+    It lives in your menu bar — look for the broadcast icon.
+
+    First launch will ask for calendar access.
+    Shortcuts: J to join, T for timeline, Cmd+N for new event.
+
+    github.com/chaiovercode/on-air
+
+  EOS
+
   zap trash: [
     "~/Library/Application Support/OnAir",
     "~/Library/Preferences/com.onair.app.plist",
