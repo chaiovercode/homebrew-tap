@@ -1,6 +1,6 @@
 cask "on-air" do
   version "1.0.0"
-  sha256 "d56540f0ace2e6be811e66d7f9f760a763d6960355327edaf9d48a7fd2012ce9"
+  sha256 "5ff9c54a160368a3b641dc6d794a961f9462092ba529a149d42cbd6f7a9c4807"
 
   url "https://github.com/chaiovercode/on-air/releases/download/v#{version}/OnAir.zip"
   name "OnAir"
