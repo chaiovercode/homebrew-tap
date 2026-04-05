@@ -25,7 +25,7 @@ cask "on-air" do
     It lives in your menu bar — look for the broadcast icon.
 
     First launch will ask for calendar access.
-    Shortcuts: J to join, T for timeline, Cmd+N for new event.
+    Shortcuts: J to join, T for timeline, F for focus, Cmd+N for new event.
 
     github.com/chaiovercode/on-air
 
